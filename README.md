@@ -1,4 +1,4 @@
-# Aminku Financial Engineering
+# Aminku-Financial-Engineering
 **STARTED 28 March 2026**
 
 ## Overview
