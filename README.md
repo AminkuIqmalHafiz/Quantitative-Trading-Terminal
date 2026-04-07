@@ -11,7 +11,7 @@ I spend my leisure time to bridge physical engineering principles with quantitat
 * **Convexity Desk:** 3D Volatility surface mapping and institutional skew analysis.
 * **Gamma Engine:** Zero-Gamma (GEX) level calculator for market regime detection.
 * **Kurtosis Scanner:** Tail-risk detection using the 4th statistical moment.
-* *(Future models will be logged here)*
+* **Cost-of-Carry Engine:** Theoretical forward/futures pricing for term structure and contango/backwardation detection.
 
 ### Physical Commodities (Macro & Energy)
 * **Oil Inventory Flow:** Predictive modeling for global crude supply chains.
