@@ -7,13 +7,13 @@ I spend my leisure time to bridge physical engineering principles with quantitat
 ## System Directory
 *This repository serves as a live, expanding index of my quantitative infrastructure.*
 
-### Quantitative Equities (Options & Volatility)
+### Quantitative Equities 
 * **Convexity Desk:** 3D Volatility surface mapping and institutional skew analysis.
 * **Gamma Engine:** Zero-Gamma (GEX) level calculator for market regime detection.
 * **Kurtosis Scanner:** Tail-risk detection using the 4th statistical moment.
 * **Cost-of-Carry Engine:** Theoretical forward/futures pricing for term structure and contango/backwardation detection.
 
-### Physical Commodities (Macro & Energy)
+### Physical Commodities
 * **Oil Inventory Flow:** Predictive modeling for global crude supply chains.
 * *(Future thermodynamic and geopolitical models will be logged here)*
 
