@@ -28,3 +28,4 @@ I spend my leisure time to bridge physical engineering principles with quantitat
 
 **Visualization:** plotly, matplotlib, streamlit
 
+Note: The structural logic, mathematical parameters (e.g., Gamma exposure, basis arbitrage), and workflow architecture of this project were independently designed. I utilized Large Language Models (LLMs) to assist with Python syntax generation and rapid prototyping, allowing me to focus entirely on the quantitative financial logic and system design
